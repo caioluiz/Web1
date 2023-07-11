@@ -8,7 +8,7 @@
 */
 
 body{
-    background-image: url(imagens/P1_UFRRJ.jpg);
+    background-image: url(./imagens/P1_UFRRJ.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
